@@ -42,6 +42,8 @@ The analysis process is divided into the following steps:
       Category Performance: Pie chart or donut chart
       Geographic Sales: Map or bar chart of sales by state/city
       Return Analysis: Number and % of returned items
+![dashboard1](https://github.com/user-attachments/assets/494880f4-f1d5-4142-83c0-56f3461465ac)
+
 
 ##  Project Insights
       
